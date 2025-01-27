@@ -1,0 +1,37 @@
+I submitted a query as I ran into trouble installing Notepad++ whether it was essential but didn't get a response. But hopefully this is good enough! Apologies if not.
+
+
+1. (struggling with understanding the wording of this one)
+request users positive integer
+	if the number is positive, record and tell user "enter another number"
+	repeat until user enters "0"
+Stop requesting and identify largest number 
+print largest number 
+
+2. 
+request users name
+	store input into variable called "first_name"
+print "first name", "Hello, World"
+
+3. 
+Get integers
+Set counter for number of integers and store as variable "n"
+Calculate sum of integers and store as variable "sum"
+	Calculate average by dividing "sum" by "n"
+Print average
+
+4. 
+Get grocery list 
+Read 
+Arrange into alphabetical order (Can it do that or do you have to assign a=1, b=2, etc...?)
+	If already bought assign value of "1"
+	If not already bought assign value of "0"
+Print all products with value "0"
+
+5. 
+Get inputs
+Read
+	Sum inputs and store as variable "S"
+	Divide variable "S" by 2 and store as variable "A"
+	Multiply inputs and store as variable "P"
+Print S,A,P
