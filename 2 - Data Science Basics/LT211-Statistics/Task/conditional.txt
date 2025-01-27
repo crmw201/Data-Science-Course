@@ -1,0 +1,42 @@
+Task 2
+
+1. Probability of a crash given the client is aged 22.
+
+P(A/B) = (P(A and B))/P(B)
+
+P(B) = Prob that they are under 25 = 0.1
+
+P(A and B) = 0.05 * 0.1 = 0.005 
+
+P(A/B) = 0.005/0.1 = 5%
+
+2. Probability of heads given heads last time
+
+P(B) = Probability of it landing on heads (last time) = 0.5
+P(A and B) = 0.5 * 0.5 = 0.25
+
+P(A/B) = (0.25)/0.5 = 0.5 (50%) of landing on heads (makes sense)
+
+3. Prob of achieving 80% in CS, given you took Maths.
+
+P(B) = Prob of doing Maths = 0.6
+P(A and B) = Prob. of taking Maths and CS and got 80 = 0.3 * 0.6 = 0.18
+
+P(A/B) = 0.18/0.6 = 0.3 
+
+4. 
+
+H: Someone has COVID
+
+E: Evidence that they tested positive 
+
+P(H)= 70/100 =0.7
+P(E/H)= 63/70 = 0.9
+P(E)= 64/100 = 0.64
+
+P(H/E) = P(E/H) * P(H) / P(E)
+
+(0.9 * 0.7) / 0.64 = 0.984 
+
+98.4% chance that someone has COVID givent hey tested positive
+

@@ -1,0 +1,23 @@
+Task 1
+
+1. Median: Will remove the skewness given by the heavy distribution/outliers of
+top 10 or 1%.
+
+2. Mode: Categorize the dishes on the menu and tot up the frequency 
+occurrence of each dish, then keep the item with the highest frequency (the mode)
+
+3. Mean: Add up the costs of the previous 6 months. Divide that sum by 6. 
+That will be your average monthly cost. Actually as you will times it by 6 to 
+get the rest of the year total, it will end up being the sum of your spending
+this year to date.
+
+4. Median: Median to avoid the outliers provided by the few people
+who are spending a large amount. 
+
+5. Variance: You want consistency in speed, not just overall speed. So 
+finding the lowest variance will insure you find a provider that doesn't
+move too much from the mean value.
+
+6. Standard Deviation. If you find the s.d. you can ascertain the definition of
+undercharging or overcharging as being one or more s.d.'s away from the mean. 
+

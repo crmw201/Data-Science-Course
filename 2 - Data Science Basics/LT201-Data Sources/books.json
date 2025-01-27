@@ -1,0 +1,39 @@
+{   
+    "books": [{
+                "Title": "Yellowface",
+                "Author":"Rebecca F. Kuang",
+                "Front Cover Colour": "Yellow",
+                "Year of Publication": "2023"
+                },
+                {
+                "Title": "A Brief History of Time",
+                "Author":"Stephen Hawking",
+                "Front Cover Colour": "White",
+                "Year of Publication": "1988"
+                },
+                {
+                "Title": "Misbehaving",
+                "Author":"Richard Thaler",
+                "Front Cover Colour": "White",
+                "Year of Publication": "2015"
+                },
+                {
+                "Title": "Meditations",
+                "Author":"Marcus Aurelius",
+                "Front Cover Colour": "White",
+                "Year of Publication": "1559"
+                },
+                {
+                "Title": "The Secret History",
+                "Author":"Donna Tartt",
+                "Front Cover Colour": "Black",
+                "Year of Publication": "1992"
+                },
+                {     
+                "Title": "Norwegian Wood",
+                "Author":"Haruki Murakami",
+                "Front Cover Colour": "Red",
+                "Year of Publication": "1987"      
+                }]
+} 
+
